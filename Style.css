@@ -16,6 +16,7 @@ body{
     margin: 0;
     padding: 0;
     max-width: 1920px;
+    max-height: 1080px;
 }
 
 .header-main
@@ -678,7 +679,7 @@ body{
 
     .section-description-h2
     {
-        font-size: 27px;
+        font-size: 23px;
         padding-top: 0;
         padding-bottom: 90px;
     }
